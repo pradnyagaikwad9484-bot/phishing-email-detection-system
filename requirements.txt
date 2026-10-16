@@ -1,0 +1,4 @@
+pandas>=2.0
+streamlit>=1.32
+pytest>=8.0
+scikit-learn>=1.3
